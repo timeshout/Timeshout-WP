@@ -1,0 +1,33 @@
+.event {
+width: 100%;
+padding: 0;
+margin: 0px 0 30px 0;
+position: relative;
+}
+.event .title {
+font-size: large;
+font-weight: bold;
+border-bottom: 1px solid #E5E5E5;
+}
+.event .title a {
+color: #000;
+text-decoration: none;
+}
+.event .summary {
+}
+.event .info {
+color: #7F7F7F;
+float: right;
+height: 20px;
+margin-top: -25px;
+font-size: small;
+}
+.empty {
+font-weight: bold;
+text-align: center;
+}
+#timeshout {
+display:block;
+width:150px;
+margin:20px auto;
+}
