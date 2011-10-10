@@ -12,7 +12,7 @@ class Timeshout
 
     const STATUS_INVALID_XML = 206;
 
-    protected $baseUrl = 'http://api.timeshout.dev/';
+    protected $baseUrl = 'http://api.timeshout.com/';
 
     protected $method;
 

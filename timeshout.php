@@ -151,7 +151,7 @@ $form = <<<EOF
     <table class="form-table">
         <tr valign="top">
             <th scope="row"><label for="posts_per_page">Your API Key</label></th>
-            <td><input name="ts[api_key]" type="text" value="%api_key%" class="regular-text" /> <span class="description">get your API key <a href="http://timeshout.dev/dev.php/api/manage"target="_blank">here</a></span></td>
+            <td><input name="ts[api_key]" type="text" value="%api_key%" class="regular-text" /> <span class="description">get your API key <a href="http://timeshout.com/dev.php/api/manage"target="_blank">here</a></span></td>
         </tr>
         <tr valign="top">
             <th scope="row"><label for="posts_per_rss">Calendar ID</label></th>
