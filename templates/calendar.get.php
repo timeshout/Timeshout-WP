@@ -13,5 +13,5 @@
 <?php endif;?>
 
 <a id="timeshout" href="http://timeshout.com" title="Timeshout is a place that lets you post events, create calendars, sell tickets and share with the world">
-    <img src="http://assets.timeshout.com/i_logo_medium.png" height="35" width="150" border="0"/>
+    <img src="http://timeshout.com/images/logo/small.png" height="25" width="100" border="0"/>
 </a>
